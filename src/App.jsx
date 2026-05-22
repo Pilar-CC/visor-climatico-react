@@ -6,7 +6,7 @@ import chroma from "chroma-js";
 import proj4 from "proj4";
 
 const CONFIG = {
-  RUTA_BASE: "C:/Users/pcc/Emgrisa, S.A/Aguas - Documentos/Test_EACC/rasters/",
+  RUTA_BASE: "/visor-climatico-react/rasters/",
   VARS: ["ETP", "PRE"],
   HORS: ["2030_2060", "2050_2080", "2070_2100"],
   ESCS: ["ssp4", "ssp8"],
