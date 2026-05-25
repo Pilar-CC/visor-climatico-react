@@ -344,7 +344,7 @@ export default function App() {
         <div className="flex items-center gap-3">
           <div className="h-2 w-2 animate-pulse rounded-full bg-sky-400 shadow-[0_0_8px_#38bdf8]" />
           <div>
-            <h1 className="text-sm font-semibold">Visor GIS Climático</h1>
+            <h1 className="text-sm font-semibold text-white"">Visor GIS Climático</h1>
             <span className="font-mono text-[10px] text-slate-500">EACC · COG · React</span>
           </div>
         </div>
